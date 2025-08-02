@@ -1,20 +1,24 @@
-# Hi there, I'm Raghav Singh 👋
+# 👋 Hi, I'm Raghav Singh
 
-![Profile views](https://komarev.com/ghpvc/?username=RaghavEdge)
+# 🚀 About Me
 
-# About Me
+I’m a passionate and driven full-stack developer with a strong focus on MERN Stack development, backend engineering, and Android application development. I enjoy building scalable web and mobile applications that solve real-world problems.
 
-I'm a passionate developer with a keen interest in MERN Stack Development ,backend development and android application development
+🔭 Currently working on advanced backend projects using Node.js, Express, MongoDB, and React.js.
 
-- 🔭 I’m currently working on exciting backend projects which includes NodeJS, ReactJS, MongoDB and Express.
-- 🌱 I’m currently learning advanced NodeJS, ReactJS and express.
-- 👯 I’m looking to collaborate on MERN STACK web projects
-- 🤔 I’m looking for help with Backend Development.
-- 💬 Ask me about app development and MERN Stack Development
-- 📫 How to reach me: aryankhandelwal0127@gmail.com
-- 🫣 Here is my Personal Portfolio Website - [Personal Portfolio Website](https://www.aryankhandelwal.tech/)
+🌱 Deepening my expertise in advanced Node.js, Express, and React.js.
 
-## 🛠️ Languages and Tools
+👯 Open to collaboration on full-stack MERN projects.
+
+🤝 Actively seeking guidance and mentorship in backend architecture and system design.
+
+💬 Feel free to ask me about MERN Stack, API design, and Android development.
+
+📫 Reach me at: rs144v@gmail.com
+
+🌐 Explore my portfolio: raghavs.com
+
+# 🛠️ Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoWidth=50)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoWidth=50)
@@ -29,8 +33,10 @@ I'm a passionate developer with a keen interest in MERN Stack Development ,backe
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=flat&logo=android-studio&logoWidth=50)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose&logoWidth=50)
 
-# 📫 Connect with Me
+# 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raghavsing/)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/itsrebelkid)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raghavsing/)
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://raghavs.com/)
