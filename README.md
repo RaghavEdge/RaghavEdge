@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://raghavs.com/)
-<h1 align="center">Hi 👋, I'm Raghav </h1>
+<h1 align="center">Hi, I'm Raghav   <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 <h3 align="center">A Passionate FullStack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://x.com/itsrebelkid" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="itsrebelkid"  </p>
+<p align="left"> <a href="https://x.com/itsrebelkid" target="blank"><img src="https://img.shields.io/twitter/follow/itsrebelkid?logo=twitter&style=for-the-badge" alt="itsrebelkid"  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
